@@ -1,6 +1,7 @@
 ## 🌐 My Socials 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-mishra-37a190275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dev_m03?t=mPvhbiouKtAm5cl9sBYRGg&s=08)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/dev_m03/)
 ## 🚀 Tech Stack
 
 Here are some of the technologies I work with:
