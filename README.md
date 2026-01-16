@@ -8,7 +8,7 @@ I enjoy open source, care about good engineering culture, and prefer small teams
 
 ### A bit more
 
-* Core contributor at **@FOSSCU**
+* Core contributor at **[@FOSSCU](https://github.com/FOSS-Community)**
 * Built and lead **Spring Nexus**, a Spring & Java-focused community
 * **AIR 11 – Microsoft Hackathon (All India)**
 * I love reading and writing tech articles and blogs
@@ -17,6 +17,6 @@ I enjoy open source, care about good engineering culture, and prefer small teams
 
 Backend systems, AI in production, developer tooling, system design, or open source.
 
-### Find me around the web 
+### Find me around the web
 
 · [LinkedIn](https://linkedin.com/in/dev-m03) · [Medium](https://medium.com/@fablesaesops3)
