@@ -1,6 +1,6 @@
 ## About me
 
-I’m **Dev Mishra**. I like building backend systems that don’t break under pressure and AI features that actually belong in production.
+Hey I am **Dev**. I like building backend systems that don’t break under pressure and AI features that actually belong in production.
 
 Most of my work lives around **Spring Boot and FastAPI**, where I focus on clean architecture, system design, and developer-friendly tooling. Lately, I’ve been exploring how **LLMs and agentic workflows** fit into real backend infrastructure, not just demos.
 
