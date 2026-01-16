@@ -1,34 +1,22 @@
-# Dev Mishra
+## About me
 
-**Backend & AI Engineer | Open Source Contributor | Community Builder**
+I’m **Dev Mishra**. I like building backend systems that don’t break under pressure and AI features that actually belong in production.
 
-I work at the intersection of scalable backend systems and applied AI, with a strong focus on clean design, automation, and developer experience.
+Most of my work lives around **Spring Boot and FastAPI**, where I focus on clean architecture, system design, and developer-friendly tooling. Lately, I’ve been exploring how **LLMs and agentic workflows** fit into real backend infrastructure, not just demos.
 
----
+I enjoy open source, care about good engineering culture, and prefer small teams that value ownership, speed, and clarity.
 
-## What I Work On
+### A bit more
 
-* Backend Engineering with **Spring Boot & FastAPI**
-* **AI Systems & Agentic Workflows** (LLMs, RAG, AI Ops tooling)
-* **Developer Tools & CLI Utilities**
-* **System Design, Databases & Caching**
-
----
-
-## Experience
-
-* Core Contributor at **FOSSCU** (Open Source Community)
-* Founder of **Spring Nexus**
+* Core contributor at **@FOSSCU**
+* Built and lead **Spring Nexus**, a Spring & Java-focused community
 * **AIR 11 – Microsoft Hackathon (All India)**
+* I love reading and writing tech articles and blogs
 
----
+### You can talk to me about
 
-## Tech
+Backend systems, AI in production, developer tooling, system design, or open source.
 
-Java · Spring Boot · FastAPI · Python · LLMs · LangChain
-PostgreSQL · Redis · Docker · Git · Cloud
+### Find me around the web 
 
----
-
-🔗 **GitHub:** [https://github.com/dev-m03](https://github.com/dev-m03)
-🔗 **LinkedIn:** [https://linkedin.com/in/dev-m03](https://linkedin.com/in/dev-m03)
+· [LinkedIn](https://linkedin.com/in/dev-m03) · [Medium](https://medium.com/@fablesaesops3)
