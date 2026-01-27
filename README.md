@@ -9,7 +9,7 @@ I enjoy open source, care about good engineering culture, and prefer small teams
 ### A bit more
 
 * Core member as Sculptor **[@FOSSCU](https://github.com/FOSS-Community)**
-* Built and lead **Spring Nexus**, a Spring & Java-focused community
+* Built and lead **[Spring Nexus](https://springnexus.vercel.app/)**, a Spring & Java-focused community
 * **AIR 11 – Microsoft Hackathon (All India)**
 * I love reading and writing tech articles and blogs
 
